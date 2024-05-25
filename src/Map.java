@@ -5,6 +5,7 @@ import java.util.Random;
 
 public class Map {
 	//test
+	// 졸려용
 	int width;	
 	int num_mine;
 	int[][] mineMap;
